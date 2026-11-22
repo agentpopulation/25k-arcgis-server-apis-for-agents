@@ -1,0 +1,31 @@
+{
+  "name": "25k-arcgis-server-apis-for-agents",
+  "new_name": "25k-arcgis-server-apis-for-agents",
+  "url": "https://github.com/agentpopulation/25k-arcgis-server-apis-for-agents",
+  "description": "25,292 ArcGIS Server API endpoints that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "homepage": "https://agentpopulation.com/apis",
+  "topics": [
+    "api-endpoints",
+    "open-data",
+    "dataset",
+    "ai-agents",
+    "agent-tools",
+    "agentpopulation",
+    "arcgis-server",
+    "arcgis",
+    "geospatial",
+    "map-layers",
+    "feature-server",
+    "map-server"
+  ],
+  "release": {
+    "tag": "snapshot-2026-11-16",
+    "title": "ArcGIS Server API endpoints · snapshot 16 Nov 2026 · 25,292 endpoints",
+    "notesFile": "RELEASE_NOTES.md",
+    "manifest": "../_release/arcgis-server-api-endpoints/release.json",
+    "assets": [
+      "../_release/arcgis-server-api-endpoints/ArcGIS_Server_API_Endpoints_AgentPopulation_Snapshot_2026-11-16.csv.gz",
+      "../_release/arcgis-server-api-endpoints/SHA256SUMS.txt"
+    ]
+  }
+}
